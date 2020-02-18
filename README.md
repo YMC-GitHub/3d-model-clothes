@@ -10,6 +10,7 @@
 
 ![demo01](./screenshot/demo.jpg)
 
+[get more demo](./note/demo-more.jpg)
 ## how to use with production?
 
 ### install
