@@ -8,4 +8,6 @@ https://blog.csdn.net/ltycloud/article/details/79365523
 https://caizhi.shejiben.com/more_material-t422p2
 贴图下载
 https://www.om.cn/models/pic-396-438-0-0-1-2-0-0-1-0-0-0-0-0.html
+布复杂a褶皱模型制作
+http://www.moxingyun.com/news/detail-jichu-1008798364.html
 ```
